@@ -1,0 +1,13 @@
+@echo off
+del *.il?
+del *.td?
+del *.~de
+del *.mrt
+del *.csm
+del *.mbt
+del *.dsw
+del *.ob?
+del *.bak
+del c:\temp\*.obj
+del c:\temp\*.res
+

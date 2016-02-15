@@ -1,0 +1,9164 @@
+*** INSIDE TMANAGER ***
+Method called: Contructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 2 2 2 2 2 2 2 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 4 4 4 4 4 4 4 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 1 1 1 1 1 1 1 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 2 2 2 2 2 2 2 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 5 5 5 5 5 5 5 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 4 4 4 4 4 4 4 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 3 3 3 3 3 3 3 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 2 2 2 2 2 2 2 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 2 2 2 2 2 2 2 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 2 2 2 2 2 2 2 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 3 3 3 3 3 3 3 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 6 4 4 4 4 4 4 4 0 0 0
+
+*** INSIDE INTERFACE ***
+Method called: Constructor
+manager of type TManager created.
+animationArray of type ArrayClass created.
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 0
+Region:        (10,5,130,125)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (10,5)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 1
+Region:        (140,5,260,125)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (140,5)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 2
+Region:        (270,5,390,125)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (270,5)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 3
+Region:        (400,5,520,125)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (400,5)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 4
+Region:        (10,135,130,255)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (10,135)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 5
+Region:        (400,135,520,255)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (400,135)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 6
+Region:        (10,265,130,385)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (10,265)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 7
+Region:        (400,265,520,385)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (400,265)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 8
+Region:        (10,395,130,515)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (10,395)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 9
+Region:        (140,395,260,515)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (140,395)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 10
+Region:        (270,395,390,515)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (270,395)
+
+*** INSIDE TMANAGER ***
+Method called: SetRegion
+Morph number: 11
+Region:        (400,395,520,515)
+
+*** INSIDE TBIOMORPH ***
+Method called: SetXY
+New co-ords: (400,395)
+
+*** INSIDE INTERFACE ***
+Method called: SetupWindow
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 1
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 2
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 3
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 4
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 5
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 6
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 7
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 8
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 9
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 10
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 11
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 12
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: GetGenes
+Gene values: 7 2 2 6 2 2 10 4 22 0 0
+
+*** INSIDE TMANAGER ***
+Method called: GetMorph
+Morph chosen: 3
+Gene values:  7 2 2 6 2 2 10 4 22 0 0
+
+*** INSIDE INTERFACE ***
+Method called: EvRButtonDown
+Co-ords:   X = 449
+           Y = 72
+Box clicked: 3
+Gene values:  7 2 2 6 2 2 10 4 22 0 0
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 13
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 14
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 15
+Morph chosen was:   4
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 4
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 16
+Morph chosen was:   0
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 0
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 17
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 18
+Morph chosen was:   0
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 0
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 19
+Morph chosen was:   0
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 0
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 20
+Morph chosen was:   0
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 0
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 21
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 22
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 23
+Morph chosen was:   4
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 4
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 24
+Morph chosen was:   4
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 4
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 25
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 26
+Morph chosen was:   4
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 4
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 8 2 0 4 6 2 10 4 22 1 22
+
+*** INSIDE INTERFACE ***
+Method called: EditBiomorph
+Gene values:  8 2 0 4 6 2 10 4 22 1 22
+
+*** INSIDE TBIOMORPH ***
+Method called: Constructor
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 1 0 0 0 0 0 0 0 0 0 0
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 8 2 0 4 6 2 10 4 22 1 22
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: SetGenes
+Gene values: 12 2 0 36 6 2 10 3 22 1 22
+
+*** INSIDE TMANAGER ***
+Method called: SetParentGenes
+Gene values: 12 2 0 36 6 2 10 3 22 1 22
+
+*** INSIDE INTERFACE ***
+Method called: AlterGenes
+Gene values:  12 2 0 36 6 2 10 3 22 1 22
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 0
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 27
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 28
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 29
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 30
+Morph chosen was:   11
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 11
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 11
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 31
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 32
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 33
+Morph chosen was:   7
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 7
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvRButtonDown
+Co-ords:   X = 273
+           Y = 227
+*** INSIDE INTERFACE ***
+Method called: EvRButtonDown
+Co-ords:   X = 275
+           Y = 233
+*** INSIDE TBIOMORPH ***
+Method called: GetGenes
+Gene values: 12 4 1 40 6 2 10 1 0 1 22
+
+*** INSIDE TMANAGER ***
+Method called: GetMorph
+Morph chosen: 2
+Gene values:  12 4 1 40 6 2 10 1 0 1 22
+
+*** INSIDE INTERFACE ***
+Method called: EvRButtonDown
+Co-ords:   X = 315
+           Y = 74
+Box clicked: 2
+Gene values:  12 4 1 40 6 2 10 1 0 1 22
+
+*** INSIDE INTERFACE ***
+Method called: Paint
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 34
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE INTERFACE ***
+Method called: StartRecording
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 40 6 2 10 1 0 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 35
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 40 8 2 10 1 0 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 36
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 40 8 2 10 1 0 1 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 37
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 40 8 2 10 3 0 1 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 38
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 40 8 2 10 3 0 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 39
+Morph chosen was:   7
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 7
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 40 8 2 10 1 0 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 40
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 1 42 8 2 10 1 0 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 41
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 3 42 8 2 10 1 0 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 42
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 4 3 42 8 2 10 1 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 43
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 2 3 42 8 2 10 1 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 44
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 2 5 42 8 2 10 1 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 45
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 10 2 5 42 8 2 10 1 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 46
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 10 2 5 42 8 2 10 3 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 47
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 10 2 5 42 8 2 10 3 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 48
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 10 0 5 42 8 2 10 3 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 49
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 10 0 5 42 8 0 10 3 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 50
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 10 0 5 42 8 0 10 5 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 51
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 0 5 42 8 0 10 5 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 52
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 2 5 42 8 0 10 5 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 53
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 11 2 3 42 8 0 10 5 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 54
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 3 42 8 0 10 5 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 55
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 3 42 10 0 10 5 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 56
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 3 42 10 0 10 5 1 45 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 57
+Morph chosen was:   5
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 5
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 3 42 10 0 10 7 1 45 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 58
+Morph chosen was:   3
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 3
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 3 42 10 0 10 7 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 59
+Morph chosen was:   2
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 2
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 0
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 8
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 4
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 9
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 3 42 12 0 10 7 1 23 22
+
+*** INSIDE INTERFACE ***
+Method called: EvLButtonDown
+Click count is now: 60
+Morph chosen was:   1
+
+*** INSIDE INTERFACE ***
+Method called: DrawMorphs
+Box value: 1
+Box is active? YES
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: SetParent
+New parent morph number: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 3
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 2
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 7
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 6
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 1
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 10
+
+*** INSIDE TBIOMORPH ***
+Method called: Mutate
+Gene changed: 5
+
+*** INSIDE TMANAGER ***
+Method called: Draw
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TBIOMORPH ***
+Method called: Display
+
+*** INSIDE TMANAGER ***
+Method called: GetParent
+Gene values: 12 2 1 42 12 0 10 7 1 23 22
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TBIOMORPH ***
+Method called: Destructor
+
+*** INSIDE TMANAGER ***
+Method called: Destructor
+morph1 of type TBiomorph deleted:  73 bytes
+morph2 of type TBiomorph deleted:  73 bytes
+morph3 of type TBiomorph deleted:  73 bytes
+morph4 of type TBiomorph deleted:  73 bytes
+morph5 of type TBiomorph deleted:  73 bytes
+morph6 of type TBiomorph deleted:  73 bytes
+morph7 of type TBiomorph deleted:  73 bytes
+morph8 of type TBiomorph deleted:  73 bytes
+morph9 of type TBiomorph deleted:  73 bytes
+morph10 of type TBiomorph deleted: 73 bytes
+morph11 of type TBiomorph deleted: 73 bytes
+morph12 of type TBiomorph deleted: 73 bytes
+parent of type TBiomorph deleted:  73 bytes
+
+*** INSIDE INTERFACE ***
+Method called: Destructor
+manager of type TManager DELETED:     300 bytes
+edit of type TButton DELETED:         172 bytes
+animationArray of type Array DELETED: 12 bytes
+

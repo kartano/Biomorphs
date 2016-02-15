@@ -1,0 +1,169 @@
+                               ÉÍÍÍÍÍÍÍÍÍÍÍ»
+                               º BIOMURFFS º
+                               ÈÍÍÍÍÍÍÍÍÍÍÍ¼
+
+The program is designed to demonstrate how a succession of small changes, when
+stacked on  top of one another, can lead to radical  differences in the system
+affected. This is used by Richard Dawkins in 'The  Blind  Watchmaker' where he
+uses it to demonstrate the principle of cumulative small change as a mechanism
+for Darwinian  evolution. There are  one or two  differences between  Dawkin's
+program  and  this, but these  are relatively  minor  ones connected  with the
+operation and not the overall effect.
+
+                          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                          ³ SYSTEM REQUIREMENTS ³
+                          ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+The program is  written in TURBO BASIC V1.0.  It needs an IBM PC or compatible
+with CGA or EGA graphics. The memory  requirements I don't  exactly know about
+since the  smallest system I've  run it on is 512K. The program  loads the DOS
+utility  GRAPHICS.COM to  allow screen  printing, but this  is called  with no
+parameters, so it  is set  up  for IBM GRAPHICS / EPSON  compatible  printers.
+The CGA high resolution  graphics mode is used for  plotting the biomorphs, so
+you don't need a colour monitor. Anyone who wants to write in genes for colour
+on an EGA is welcome to do so.
+
+                              ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                              ³ USER INTERFACE ³
+                              ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Run the program from DOS by entering  BIOMRF  from the DOS prompt and pressing
+the RETURN key. The screen will clear and the title page  printed. At the foot
+of this you are asked:
+
+Do you want to define the initial gene values yourself ?
+
+answering Y will allow user definition of the intial values - see later.
+Answering N will cause the screen to clear again and the following to be shown
+
+The default initial values are:
+6,2,8,1,2,135,90,10
+
+Do you want these or a random selection ?
+
+See the section on genes for what  this means. If you want the default values,
+just press the  RETURN key, if not, the starting  values will be  generated at
+random, and you will be  shown what they are. You are then  told that to leave
+the program, just press the RETURN key in response to the question:
+
+Please enter the number of the biomorph you want ?
+
+                        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                        ³ DISPLAYING THE BIOMORPHS ³
+                        ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+The messages here  are pretty self-explanatory, with the 'Do you want' type as
+Y/N replies and the others requiring numeric answers. However:
+1. Notice that the morphs are plotted  1  2  3  4  5  6  7  8
+                                       9 10 11 12 13 14 15 16
+but  there may be  fewer than 16 there. You can only  select morphs  which are
+actually shown. If you try to  select number 8  when there are  only 6 plotted
+you'll get nonsense. They are plotted staggered for clarity.
+
+2. When you enter  the magnification, values MUST  be positive. Magnifications
+less than 1 reduce  the size of the morph. As the morphs have a  limited range
+of sizes and  the screen has a limited size, you're best using  magnifications
+of between 0.5 and 3. The gene values are plotted  to the side of the morph if
+you ask to see it alone.
+
+3. If you press RETURN on it's own to the question:
+
+'Please enter the number of the biomorph you want ?'
+
+you will leave the program.
+
+                            ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                            ³ BIOMORPH GENETICS ³
+                            ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+OK, this is where we see how it's all done. In natural systems, genes are just
+data storage media which, via the mechanisms of transcription affect (directly
+or otherwise) visible properties (or phenotypes) of the organisms, WITHOUT any
+obvious connection between the gene and the phenotype (i.e unless you know the
+system you don't  know what one set of data in a particular  gene will do just
+by looking at it). This is what  happens here, but the system for turning gene
+data into phenotypes is simple enough to do on paper.
+Mutation is alteration of genetic data resulting in an altered phenotype. With
+natural mutation, very often  the most obvious  phenotype is death, but enough
+non-fatal  mutations go on (especially  with the added  source of variety from
+sexual reproduction)  to allow development. Biomorphs  do not die, nor do they
+reproduce sexually, so in order to get evolution fast enough to see, they have
+a huge mutation rate - every one is mutated. However, each mutation is in only
+one gene, and it is only a  +/- 1 change in the  value of that gene. Since all
+these small changes are cumulative, a lot of development can be seen.
+
+
+
+
+I've just  mentioned what  biomorph mutation  is physically, so to put it into
+perspective, it must also be said here that biomorph  genes are all members of
+the set of natural numbers. These are thus data (in the same way as the 4- way
+'numeric' code of DNA  is data) which are  read by the relevant section of the
+program as an instruction as to how to do it's job. The main difference (other
+than one of scale) between biomorphs and living organisms is that in biomorphs
+the phenotypes are produced directly from the code.
+
+Each biomorph  has 8 genes of  this type. As has  been said, one is mutated at
+each reproduction, but which one is  chosen at random, and the mutation, +/- 1
+is also decided at random. The non-random influence here which can lead to the
+development of particular phenotypes is human selection. The genes are:
+
+1: Number of offspring.
+2: Number of iterations used when plotting (see PLOTTING BIOMORPHS)
+3: GENE # 1 for branch length
+4: GENE # 2 for branch length
+5: GENE # 3 for branch length - if odd, branch length is 3 * 4, if even branch
+   length is 3 + 4.
+6: Angle of 1st branch from precursor (in degrees).
+7: Angle of 2nd branch from 1st (2 branches come from each branch point).
+8: Length of initial branch (trunk).
+
+
+                            ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                            ³ PLOTTING BIOMORPHS ³
+                            ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Biomorphs have  a plane of  symmetry running down  the middle. This both looks
+nicer  and is easier  to do as it needs  less data. They are  actually 'trees'
+with a trunk  and two branches coming from each branch point. They are plotted
+as a series of vectors, so the data needed  to plot each one  are co-ordinates
+of the start position, the length & the angle of  the vector from the external
+vertical/horizontal x/y co-ordinate system of the screen. As there are two new
+branches coming  from each old one, at every iteration after the  first two an
+additional 2^(iteration) vectors are generated (remember that only half of the
+biomorph is actually  worked out, as the other  half is plotted  by reflecting
+each vector on this  side across the mirror plane), so it is easy to calculate
+where each new vector came from. (The file BIOPLOT.BAS contains the subroutine
+which does this). Once the vector  is calculated, it can be plotted along with
+it's mirror image, and the subroutine for this is in the file VTRPLOT.BAS.
+
+
+
+
+
+
+The vector is calculated by finding it's start co-ordinates, which are the end
+of the parent vector. The length of the  new vector is found  by combining the
+values of genes 3 & 4  in the way indicated by gene 5. This is then stored and
+it's angle is found from  the angle of the parent  branch and  gene 6 (for the
+first branch  from a given branch point, or from the angle of the first branch
+and gene 7 for the second.
+
+This process is repeated for the number of iterations given by gene 2, and the
+biomorph  thus drawn. The same is done for each  biomorph in the set. When you
+ask  for  a single  biomorph  to  be  plotted, this  again  happens, the  only
+difference being that  the length of the vector is multiplied  by the value of
+the magnification given.
+
+Biomorphs  can also be  plotted  onto  the  printer  at any  time by  pressing
+
+PrtSc.
+
+
+I am  currently  writing version  2.0 of this program, which will  include two
+competing  species  and a definable  environment. If you  want a copy of this,
+once it is  finished, including  source code, or if  you just  want a chat, my
+email address is:
+
+D.Murphy@uk.ac.edinburgh
+
+
+  ÕÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¸
+  ³  D.J. Murphy, 12th May 1988   ³
+  ÔÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¾
+

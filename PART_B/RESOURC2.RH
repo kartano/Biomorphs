@@ -1,0 +1,186 @@
+/*======================================
+Resource file, part B
+
+By Simon Mitchell (96878291)
+======================================*/
+
+// Debug switch!
+// DELETING THE COMMENT MARKS WILL
+// ACTIVATE ALL THE DEBUGGING CODE!
+
+#define DEBUG
+
+#ifdef DEBUG
+#define DEBUG_FILE "debug.txt"
+#endif
+
+#ifndef RESOUCRES_PART_B
+#define RESOUCRES_PART_B
+
+#include <math.h>
+
+// Part_b resource header
+
+// TST = TStatic
+// TGB = TGroupBox
+// TED = TEdit
+// TBU = TButton
+// TSB = TScrollBar
+// TRB = TRadioButton
+
+const uint16 TST_BOX1 = 301;
+const uint16 TST_BOX2 = 302;
+const uint16 TST_BOX3 = 303;
+const uint16 TST_BOX4 = 304;
+const uint16 TST_BOX5 = 305;
+const uint16 TST_BOX6 = 306;
+const uint16 TST_BOX7 = 307;
+const uint16 TST_BOX8 = 308;
+const uint16 TST_BOX9 = 309;
+const uint16 TST_BOX10 = 310;
+const uint16 TST_BOX11 = 311;
+const uint16 TST_BOX12 = 312;
+const uint16 TST_PARENT = 313;
+const uint16 TBU_EDIT = 314;
+const uint16 TST_EDITPARENT = 315;
+const uint16 TBU_OK = 316;
+const uint16 TBU_CANCEL = 317;
+const uint16 TBU_RESET = 318;
+
+const uint16 TST_ADESC = 328;
+const uint16 TST_BDESC = 329;
+const uint16 TST_CDESC = 330;
+const uint16 TST_DDESC = 331;
+const uint16 TST_EDESC = 332;
+const uint16 TST_FDESC = 333;
+const uint16 TST_GDESC = 334;
+const uint16 TST_HDESC = 335;
+
+const uint16 TED_AVAL = 336;
+const uint16 TED_BVAL = 337;
+const uint16 TED_CVAL = 338;
+const uint16 TED_DVAL = 339;
+const uint16 TED_EVAL = 340;
+const uint16 TED_FVAL = 341;
+const uint16 TED_GVAL = 342;
+const uint16 TED_HVAL = 343;
+
+const uint16 TBU_APLUS = 344;
+const uint16 TBU_BPLUS = 345;
+const uint16 TBU_CPLUS = 346;
+const uint16 TBU_DPLUS = 347;
+const uint16 TBU_EPLUS = 348;
+const uint16 TBU_FPLUS = 349;
+const uint16 TBU_GPLUS = 350;
+const uint16 TBU_HPLUS = 351;
+
+const uint16 TBU_AMINUS = 352;
+const uint16 TBU_BMINUS = 353;
+const uint16 TBU_CMINUS = 354;
+const uint16 TBU_DMINUS = 355;
+const uint16 TBU_EMINUS = 356;
+const uint16 TBU_FMINUS = 357;
+const uint16 TBU_GMINUS = 358;
+const uint16 TBU_HMINUS = 359;
+
+const uint16 TBU_CCPLUS = 360;
+const uint16 TBU_DDPLUS = 361;
+const uint16 TBU_EEPLUS = 362;
+const uint16 TBU_FFPLUS = 363;
+const uint16 TBU_GGPLUS = 364;
+const uint16 TBU_HHPLUS = 365;
+
+const uint16 TBU_CCMINUS = 366;
+const uint16 TBU_DDMINUS = 367;
+const uint16 TBU_EEMINUS = 368;
+const uint16 TBU_FFMINUS = 369;
+const uint16 TBU_GGMINUS = 370;
+const uint16 TBU_HHMINUS = 371;
+
+const uint16 TBU_IPLUS = 372;
+const uint16 TBU_JPLUS = 373;
+const uint16 TBU_KPLUS = 374;
+
+const uint16 TBU_IMINUS = 375;
+const uint16 TBU_JMINUS = 376;
+const uint16 TBU_KMINUS = 377;
+
+const uint16 TBU_IIMINUS = 378;
+const uint16 TBU_JJMINUS = 379;
+const uint16 TBU_KKMINUS = 380;
+
+const uint16 TBU_IIPLUS = 381;
+const uint16 TBU_JJPLUS = 382;
+const uint16 TBU_KKPLUS = 383;
+
+const uint16 TED_IVAL = 384;
+const uint16 TED_JVAL = 385;
+const uint16 TED_KVAL = 386;
+
+const uint16 TST_IDESC = 387;
+const uint16 TST_JDESC = 388;
+const uint16 TST_KDESC = 389;
+
+const uint16 TBU_OK2 = 390;
+const uint16 TBU_SHOW = 391;
+
+const uint16 TBU_OK3 = 392;
+
+const uint16 TST_ADESC2 = 393;
+const uint16 TST_BDESC2 = 394;
+const uint16 TST_CDESC2 = 395;
+const uint16 TST_DDESC2 = 396;
+const uint16 TST_EDESC2 = 397;
+const uint16 TST_FDESC2 = 398;
+const uint16 TST_GDESC2 = 399;
+const uint16 TST_HDESC2 = 400;
+const uint16 TST_IDESC2 = 401;
+const uint16 TST_JDESC2 = 402;
+const uint16 TST_KDESC2 = 403;
+
+const uint16 TED_AVAL2 = 404;
+const uint16 TED_BVAL2 = 405;
+const uint16 TED_CVAL2 = 406;
+const uint16 TED_DVAL2 = 407;
+const uint16 TED_EVAL2 = 408;
+const uint16 TED_FVAL2 = 409;
+const uint16 TED_GVAL2 = 410;
+const uint16 TED_HVAL2 = 411;
+const uint16 TED_IVAL2 = 412;
+const uint16 TED_JVAL2 = 413;
+const uint16 TED_KVAL2 = 414;
+const uint16 TST_BORDER = 415;
+const uint16 TBU_OK4 = 416;
+const uint16 TST_BOX_1 = 417;
+const uint16 TST_BOX_2 = 418;
+const uint16 TST_BOX_3 = 419;
+const uint16 TST_BOX_4 = 420;
+const uint16 TST_BOX_5 = 421;
+const uint16 TST_BOX_6 = 422;
+const uint16 TST_BOX_7 = 423;
+const uint16 TST_BOX_8 = 424;
+const uint16 TST_BOX_9 = 425;
+const uint16 TST_BOX_10 = 426;
+const uint16 TST_BOX_11 = 427;
+const uint16 TST_BOX_12 = 428;
+
+const uint16 TST_VAL1 = 429;
+const uint16 TST_VAL2 = 430;
+const uint16 TST_VAL3 = 431;
+const uint16 TST_VAL4 = 432;
+const uint16 TST_VAL5 = 433;
+const uint16 TST_VAL6 = 434;
+const uint16 TST_VAL7 = 435;
+const uint16 TST_VAL8 = 436;
+const uint16 TST_VAL9 = 437;
+const uint16 TST_VAL10 = 438;
+const uint16 TST_VAL11 = 439;
+const uint16 TST_VAL12 = 440;
+
+const uint16 TBU_ZERO = 441;
+
+// Value for line drawing calculations
+
+const uint16 M_2PI = 2 * M_PI;
+
+#endif

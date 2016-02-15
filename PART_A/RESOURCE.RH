@@ -1,0 +1,55 @@
+/*======================================
+
+RESOURCES INTERFACE
+
+By Simon Mitchell (96878291)
+
+  This file cotnains the resource ID numbers for GUI
+elements used by the classes within this application.
+
+======================================*/
+
+#ifndef RESOURCE_ID_LIST
+#define RESOURCE_ID_LIST
+
+const uint16 ID_EDIT1 = 401;
+const uint16 ID_EDIT2 = 402;
+const uint16 ID_EVOLVEBUTTON = 403;
+const uint16 ID_GROUPBOX1 = 404;
+const uint16 ID_GROUPBOX2 = 405;
+const uint16 ID_RBUTTON1 = 406;
+const uint16 ID_RBUTTON2 = 407;
+const uint16 ID_RBUTTON3 = 408;
+const uint16 ID_RBUTTON4 = 409;
+const uint16 ID_DELAYTIME = 410;
+const uint16 ID_GENERATIONS = 411;
+const uint16 ID_SHOWALL = 412;
+const uint16 ID_FINISHED = 413;
+const uint16 ID_REPORT = 414;
+const uint16 ID_GENS = 415;
+const uint16 ID_MAX = 416;
+const uint16 ID_MIN = 417;
+const uint16 ID_GENTITLE = 418;
+const uint16 ID_MAXTITLE = 419;
+const uint16 ID_MINTITLE = 420;
+const uint16 ID_SECTITLE = 421;
+const uint16 ID_SECONDS = 422;
+const uint16 ID_SETTITLE = 423;
+const uint16 ID_DELAYTITLE = 424;
+const uint16 ID_DELAYVAL = 425;
+const uint16 ID_LIMITTITLE = 426;
+const uint16 ID_LIMIT = 427;
+const uint16 ID_SHOWNALL = 428;
+const uint16 ID_SAVEREPORT = 429;
+const uint16 ID_EXITREPORT = 430;
+const uint16 ID_SHOWREPORT = 431;
+const uint16 ID_STEPBOX = 432;
+const uint16 ID_NOSTEP = 433;
+const uint16 ID_STEP = 434;
+const uint16 ID_STEPNUMBER = 435;
+
+
+
+
+#endif RESOURCE_ID_LIST
+

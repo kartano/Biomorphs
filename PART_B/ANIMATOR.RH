@@ -1,0 +1,10 @@
+
+// TBU = TButton
+
+#ifndef RESOURCE_HEADER
+#define RESOURCE_HEADER
+
+const uint16 TBU_EXIT = 301;
+const uint16 TBU_ANIM = 302;
+
+#endif

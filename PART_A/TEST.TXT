@@ -1,0 +1,6 @@
+This is a file of text
+for the project
+to see if the
+filetext option
+will work!
+
